@@ -1,0 +1,6 @@
+{
+  "name": "Alchemist Voice Assistant",
+  "description": "AI-powered voice trading assistant for Forex, Metals, and Indices using the MSNR market structure strategy.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["AI Analysis", "Voice Assistant", "Market Research"]
+}
